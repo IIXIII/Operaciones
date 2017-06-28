@@ -1,0 +1,17 @@
+{
+  "name": "operaciones",
+  "authors": [
+    "Oscar Montaño Ayala <oayala@nuxiba.com>"
+  ],
+  "description": "hace operaciones",
+  "main": "operaciones.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
